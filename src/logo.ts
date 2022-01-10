@@ -1,2 +1,1 @@
-import 'colors';
-export const logo = '❱m'.bgRed.bold + 'ake'.bgRed;
+export const logo = 'LOGO';
